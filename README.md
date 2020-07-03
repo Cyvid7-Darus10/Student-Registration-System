@@ -1,7 +1,6 @@
 #Student Registration System
 
 
-
 -This project is about a simple registration system for students which are enrolled in the subject CMSC 11
 
 - It has Password Encryption in order for the some functions to be only limited to some user

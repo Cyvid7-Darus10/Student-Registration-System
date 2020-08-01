@@ -28,17 +28,17 @@ This is a CMSC11-Student Registration System program created by a group of stude
 
 ##### Note:
 #
->for every invaid credentials the program will be terminated
+>for every invalid credentials the program will be terminated
 #
 # For Admin
 - Diplay All (Students or Subjects) Records 
     >display all student records with the highest, lowest, average, and standard deviaion of scores
-
-        • HD (High Distinction) = total score of 135 poins or more 
-		• D (Distinction) = total score of 120 to 134 points 
-		• P (Pass) = total score of 100 to 119 points
-		• C (Credit) = total score of 75 to 99 points
-		• F (Fail) = total score of 74 points and below 
+    	
+	• HD (High Distinction) = total score of 135 poins or more 
+	• D (Distinction) = total score of 120 to 134 points 
+	• P (Pass) = total score of 100 to 119 points
+	• C (Credit) = total score of 75 to 99 points
+	• F (Fail) = total score of 74 points and below 
 - Import (Students or Subjects) File 
     > You can import (.csv) or (.txt) file by inputting filename or the location path of file
 

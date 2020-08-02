@@ -30,7 +30,7 @@ This is a CMSC11-Student Registration System program created by a group of stude
 >for every invalid credentials the program will be terminated
 #
 # For Admin
-- Diplay All (Students or Subjects) Records 
+- Display All (Students or Subjects) Records 
     >display all student records with the highest, lowest, average, and standard deviaion of scores
     	
 		• HD (High Distinction) = total score of 135 poins or more 

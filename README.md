@@ -22,7 +22,7 @@ This is a CMSC11-Student Registration System program created by a group of stude
 
 ### This program features:
 #
-##### Log On Credentials 
+##### Log In Credentials 
 #
 >if admin [username: admin | password: admin], else if registered student [username: (studentID) | password: (studentLastName)]
 

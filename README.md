@@ -20,13 +20,13 @@ This is a CMSC11-Student Registration System program created by a group of stude
 >And by default, CMSC11 is the default subject of this program.
 >This program auto saves files you have created and to extract these files you need to copy the default [data.csv and subjectlist.csv] file and rename it.
 
-### This program features:
+## This program features:
 #
 ##### Log In Credentials 
 #
 >if admin [username: admin | password: admin], else if registered student [username: (studentID) | password: (studentLastName)]
 
-##### Note:
+###### Note:
 >for every invalid credentials the program will be terminated
 #
 # For Admin
@@ -92,12 +92,12 @@ This is a CMSC11-Student Registration System program created by a group of stude
 - A maximum of 100 subjects will be registered
 - If the subject is unregistered, the program will ask to create that subject with exactly the same subject code, otherwise, a student will be unenrolled to that specific subject
 
-### NOTE:
-• Copy all the files from the CMSC11-Student Registration Syztem.zip folder
-• Use Codeblocks and set console to fullscreen mode to have an undistorted User Interface
-• Default Subject can be updated with the New Subject Code or New Subject Title
-• I have provided you (student.txt and subject.txt) file samples to test
-• Import first the subject file to get rid of creating unregistered subject
-• And by default the file is empty with only default (CMSC11) subject registered
+### FINAL NOTE:
+- Copy all the files from the CMSC11-Student Registration Syztem.zip folder
+- Use Codeblocks and set console to fullscreen mode to have an undistorted User Interface
+- Default Subject can be updated with the New Subject Code or New Subject Title
+- I have provided you (student.txt and subject.txt) file samples to test
+- Import first the subject file to get rid of creating unregistered subject
+- And by default the file is empty with only default (CMSC11) subject registered
 
 Thank you.

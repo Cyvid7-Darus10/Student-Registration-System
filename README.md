@@ -1,9 +1,9 @@
 # Student Registration System
 ![N|Solid](https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png)
 
-This project is about a simple registration system for students which are enrolled in the subject CMSC 11
+This project is a simple registration system for students which are enrolled in the subject CMSC 11 in UP Cebu
 
-# Summary
+# Smmary
   - It has Password Encryption in order for the some functions to be only limited to some user
 - It has two modes which are the admin and the student. In the admin you can basically do everything while on student mode the user can only view subjects, enroll in them, drop them and update their record.
 - You can also import a list of students and subjects but when importing a student with an unknown subject enrolled in the program asks the user if he wants to create that subject or import from masterlist or exit where the unknown subject will just be saved as none

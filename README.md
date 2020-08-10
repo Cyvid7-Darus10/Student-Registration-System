@@ -1,4 +1,5 @@
 # Student Registration System
+![N|Solid](https://img.shields.io/github/license/Cyvid7-Darus10/Student-Registration-System)
 ![N|Solid](https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png)
 
 This project is a simple registration system for students which are enrolled in the subject CMSC 11 in UP Cebu
